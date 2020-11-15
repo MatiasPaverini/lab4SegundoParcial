@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
+import { HeaderComponent } from "../../extra/header/header.component";
+
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
